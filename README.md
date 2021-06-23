@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am a Front End Developer who really love to code and solve things. I really like to do readable code where anyone can understand it.
+
 
 <!--
 **lausuarez02/lausuarez02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
