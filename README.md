@@ -1,8 +1,12 @@
 ### Hi, I am Lautaro 👋
 
   <img align="right" alt="Abhishek's Discord" width="100px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
-I am a Front End Developer who really love to code and solve things. I really like to do readable code where anyone can understand it.
+<h2>I am a Front End Developer who is becoming a full stack Developer .</h2>
 
+-I'm currently working in some freelance projects :wink:
+-I'm currently learning nodeJS and mongoDB
+-Talk to me if you see my profile a good fit for a job :wink:
+-How to reach me 
 
 <!--
 **lausuarez02/lausuarez02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
