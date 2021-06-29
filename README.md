@@ -1,5 +1,6 @@
 ### Hi, I am Lautaro 👋
-<img src={https://github.githubassets.com/images/modules/logos_page/Octocat.png} style="margin-left:100px">
+
+  <img align="left" alt="Abhishek's Discord" width="100px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 I am a Front End Developer who really love to code and solve things. I really like to do readable code where anyone can understand it.
 
 
