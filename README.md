@@ -23,7 +23,7 @@
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/ubuntu_logo.png" width="100px"/>
   <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="100px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="100px"/>
-  <img src="https://miro.medium.com/max/712/0*QXkyD4rFK7ivYf9-.png" width="100px"/>
+  <img src="https://miro.medium.com/max/712/0*QXkyD4rFK7ivYf9-.png" width="200px"/>
 </p>
 
 
