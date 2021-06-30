@@ -1,4 +1,5 @@
 ### Hi, I am Lautaro 👋
+# I am an Argentinian currently living in Madrid
 
   <img align="right" alt="Github" width="100px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 <h2>I am a Front End Developer who is becoming a full stack Developer .</h2>
@@ -14,9 +15,10 @@
 <p align="left">
 <img src="https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK.png" align="right" width="100px"/>
   
-<img src="https://geoinnova.org/blog-territorio/wp-content/uploads/2020/11/logos.png" alt="html"/>
+<img src="https://geoinnova.org/blog-territorio/wp-content/uploads/2020/11/logos.png" alt="html" width="100px"/>
   
- <img src="" /> 
+ <img src="https://s3-eu-west-1.amazonaws.com/xavitristancho/react-native.png" alt="reactNative" width="100px"/> 
+  <img src="https://jartigag.xyz/assets/images/posts/git.png" alt="git" width="100px"/>
 </p>
 
 
