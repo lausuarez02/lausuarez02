@@ -13,11 +13,11 @@
 ## Technologies I manage
 
 <p align="left">
-<img src="https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK.png" align="right" width="100px"/>
+<img src="https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK.png" width="100px"/>
   
-<img src="https://geoinnova.org/blog-territorio/wp-content/uploads/2020/11/logos.png" alt="html" width="100px"/>
+<img src="https://geoinnova.org/blog-territorio/wp-content/uploads/2020/11/logos.png" alt="html" width="200px"/>
   
- <img src="https://s3-eu-west-1.amazonaws.com/xavitristancho/react-native.png" alt="reactNative" width="100px"/> 
+ <img src="https://s3-eu-west-1.amazonaws.com/xavitristancho/react-native.png" alt="reactNative" width="150px"/> 
   <img src="https://jartigag.xyz/assets/images/posts/git.png" alt="git" width="100px"/>
 </p>
 
