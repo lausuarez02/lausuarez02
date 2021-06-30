@@ -24,6 +24,7 @@
   <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="100px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="100px"/>
   <img src="https://miro.medium.com/max/712/0*QXkyD4rFK7ivYf9-.png" width="200px"/>
+  <img src="https://www.digital55.com/wp-content/uploads/2019/11/Cuando_y_por_que_debo_usar_redux_en_mis_proyectos_frontend.jpg" width="100px"/>
 </p>
 
 
