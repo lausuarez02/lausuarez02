@@ -1,5 +1,5 @@
-### Hi, I am Lautaro 👋
-# I am an Argentinian based in Madrid
+### Hi, I'm Lautaro 👋
+# I'm an Argentinian based in Madrid
 
   <img align="right" alt="Github" width="100px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 <h2>I am a Front End Developer who is becoming a full stack Developer .</h2>
