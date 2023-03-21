@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lausuarez02" alt="lausuarez02" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain projects**
+- 🔭 I’m currently working on **Full stack projects**
 
 - 🌱 I’m currently learning **NodeJS, MongoDB, Jest and Solidity**
 
@@ -17,9 +17,7 @@
 
 - 📫 How to reach me **lautaro.suarez.dev@gmail.com**
 
-- 📄 Know about my experiences [https://lausuarez02.github.io/newPortfolio3.0](https://lausuarez02.github.io/newPortfolio3.0)
-
-- ⚡ Fun fact **I Love criptocurrency and dogs**
+- ⚡ Fun fact **I Love physics and dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
