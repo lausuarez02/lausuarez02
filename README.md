@@ -7,7 +7,7 @@
 
 - 🌐 **Web3 Advocate**: Passionate about crypto ecosystems, I contribute to decentralized technologies, bridging blockchain and AI for real-world applications.
 
-- 🏆 **Hackathon Wins**: Proud winner of multiple hackathons, showcasing AI-driven projects on platforms like **Avalanche** and **ICP**.
+- 🏆 **Hackathon Wins**: Proud winner of multiple hackathons, showcasing AI-driven projects on platforms like **Avalanche**, **ICP** **MODE** and **SOLANA** .
 
 - 💻 **Developer Roots**: Transitioned from building fullstack applications with JavaScript/TypeScript to developing robust systems leveraging Python, Rust, and modern frameworks.
 
