@@ -18,7 +18,3 @@
 - 📬 **Connect with Me**: Reach out via **lautaro@deadcow.xyz** for collaborations, opportunities, or sharing ideas.
 
 - ⚡ **Beyond Tech**: I find inspiration in **physics**, love spending time with **dogs**, and believe in creating tech that truly impacts lives.
-
----
-
-✨ **"Building the future, one intelligent agent at a time."**
