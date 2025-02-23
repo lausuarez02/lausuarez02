@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lautaro</h1>
-<h3 align="center">AI/ML Innovator | Blockchain Visionary | Physics & CS Explorer</h3>
+<h3 align="center">AI/ML Innovator | Blockchain | Physics & CS</h3>
 
 - 🔭 **Exploring Intelligence**: I combine my foundations in **Physics and Computer Science** to push boundaries in AI/ML and blockchain.
 
